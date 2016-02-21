@@ -1,0 +1,20 @@
+#label {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#000080;
+font-weight:bold ;
+border:0px "
+}
+
+#button {
+			font-family: Verdana, Arial, Helvetica, sans-serif;
+			font-size: 10px;
+			font-weight: bold;
+			color: #FFFFFF;
+			background-color: #000080;
+			height: 20px;
+			cursor:pointer;
+			width:60px;
+			border: 1px solid #000080;
+			margin-right:3px;
+		}
